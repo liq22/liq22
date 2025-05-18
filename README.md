@@ -81,11 +81,9 @@ Notable publications:
   
 ![Nixie Counter](https://moe-counter.glitch.me/get/@liq22?theme=nixietube-1)
 
-
-
-<a href="https://clustrmaps.com/site/zuDpJ" title="Visit tracker">
-  <img src="//clustrmaps.com/map_v2.png?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a" alt="Visitor Map">
-</a>
+<div align="center">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a"></script>
+</div>
 
 </div>
 

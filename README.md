@@ -1,33 +1,54 @@
-## Hello 👋 
+<h1 align="center">👋 Hello, I'm Qi Li</h1>
 
 <details open>
 <summary><h2 style="display: inline-block">👨‍🎓 About Me</h2></summary>
 
-I am Qi Li, a Ph.D. student in the Department of Mechanical Engineering at Tsinghua University. My primary research interests include trustworthy AI, physics-informed foundation models and prognostic and health management (PHM).
+I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsinghua University**. My research interests include **trustworthy AI**, **physics-informed foundation models** and **prognostic and health management (PHM)**.
 
 My full academic homepage can be found at: [https://liq22.github.io](https://liq22.github.io)
 </details>
 
 <details>
-<summary><h2 style="display: inline-block">🔬 Research Projects</h2></summary>
+<summary><h2 style="display: inline-block">🔬 Research</h2></summary>
 
 <details>
 <summary><h3 style="display: inline-block">PHM Foundation Model</h3></summary>
 
 Building large-scale, general-purpose models for industrial equipment health monitoring and predictive maintenance.
+
+Recent work: [HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://github.com/liq22/HSE_module)
 </details>
 
 <details>
 <summary><h3 style="display: inline-block">Neural-symbolic Diagnosis</h3></summary>
 
 Combining neural networks with symbolic reasoning to create more interpretable and robust fault diagnosis systems.
+
+Notable publications:
+- Transparent Operator Network (TII 2024)
+- Deep Expert Network (JMS 2024)
+- Transparent Information Fusion Network (ADVEI 2025)
 </details>
 
 <details>
 <summary><h3 style="display: inline-block">Cross-domain Diagnosis</h3></summary>
 
-Developing methods to transfer knowledge between different domains and equipment types for more efficient fault diagnosis.
+Developing methods to transfer knowledge between different domains and equipment types for efficient fault diagnosis.
+
+Notable publications:
+- Cross-Domain Augmentation Diagnosis (RESS 2023)
+- Adversarial Domain-Invariant Generalization (TII 2022)
+- Knowledge Mapping-Based Adversarial Domain Adaptation (MSSP 2021)
 </details>
+</details>
+
+<details>
+<summary><h2 style="display: inline-block">🏆 Achievements</h2></summary>
+
+- The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
+- Science and Technology Award of Chinese Society of Vibration Engineering
+- Future Scholars Scholarship of Tsinghua University
+- National Scholarship by Ministry of Education of China (2020, 2021)
 </details>
 
 <details>
@@ -42,7 +63,6 @@ Developing methods to transfer knowledge between different domains and equipment
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=social&logo=gmail)](mailto:liq22@mails.tsinghua.edu.cn)
 </details>
 
-
 <details>
 <summary><h2 style="display: inline-block">📊 Statistics</h2></summary>
 
@@ -53,15 +73,21 @@ Developing methods to transfer knowledge between different domains and equipment
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liq22&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 10px;" />
 </div>
-
 </details>
 
-<details>
-<summary><h2 style="display: inline-block">Visitors</h2></summary>
+<h2 align="center">✨ Visitors</h2>
 
+<div align="center">
+  
 ![Nixie Counter](https://moe-counter.glitch.me/get/@liq22?theme=nixietube-1)
 
 
+
+<a href="https://clustrmaps.com/site/zuDpJ" title="Visit tracker">
+  <img src="//clustrmaps.com/map_v2.png?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a" alt="Visitor Map">
+</a>
+
+</div>
 
 <!--
 **liq22/liq22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

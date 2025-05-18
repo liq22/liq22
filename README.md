@@ -42,14 +42,14 @@ Notable publications:
 </details>
 </details>
 
-<details>
+<!-- <details>
 <summary><h2 style="display: inline-block">🏆 Achievements</h2></summary>
 
 - The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
 - Science and Technology Award of Chinese Society of Vibration Engineering
 - Future Scholars Scholarship of Tsinghua University
 - National Scholarship by Ministry of Education of China (2020, 2021)
-</details>
+</details> -->
 
 <details>
 <summary><h2 style="display: inline-block">🔗 Links</h2></summary>
@@ -78,12 +78,13 @@ Notable publications:
 <h2 align="center">✨ Visitors</h2>
 
 <div align="center">
-  
+
+<a href="https://clustrmaps.com/site/1bq6p" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a" /></a>
+
+
 ![Nixie Counter](https://moe-counter.glitch.me/get/@liq22?theme=nixietube-1)
 
-<div align="center">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a"></script>
-</div>
+
 
 </div>
 
